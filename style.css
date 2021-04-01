@@ -1,4 +1,19 @@
-
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+     background-color: cadetblue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid darkseagreen;
+    margin-bottom: .5em;
+}
 .container{
     width:340px;
     height: 420px;
@@ -7,12 +22,7 @@
    
 }
 
-body{
-     background-color: cadetblue;
-   
-    text-align: center;
-    
-}
+
 
 table{
     
