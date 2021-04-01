@@ -1,0 +1,101 @@
+
+.container{
+    width:340px;
+    height: 420px;
+    margin: 0 auto;
+   
+}
+
+body{
+    background-color: black;
+   
+    text-align: center;
+    
+}
+
+table{
+    
+    background-color: darkseagreen;
+    column-span: 1;
+    height: 400px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding-left:  5px;
+    padding-right:  5px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+.btn{
+    background-color: #fff;
+    width:50px;
+    border-radius: 50%;
+    border-width:0;
+    height: 40px;
+    outline-width: 0;
+    
+   
+}
+
+tr{
+    display: flex;
+    column-gap: 20px;
+    padding-top: 30px;
+}
+
+input[type=text]{
+    background-color: rgb(27, 27, 25);
+    width:100%;
+    padding:10px 23px;
+    text-align: right;
+    color:#fff;
+}
+
+.btnopeq{
+    background-color: green;
+    color:#fff;
+    border-radius: 20%;
+    border-width:0;
+    
+}
+
+.btnopdiv{
+      background-color:orange;
+    color:#fff;
+    border-radius: 20%;
+    border-width:0;
+}
+
+.btnopadd{
+      background-color:rgb(104, 70, 7);
+    color:#fff;
+    border-radius: 20%;
+    border-width:0;
+}
+
+.btn:active{
+    background-color: orangered;
+    border-width:0;
+    
+}
+
+.btnopm{
+      background-color:rgb(49, 44, 114);
+    color:#fff;
+    border-radius: 20%;
+    border-width:0;
+}
+
+.btnopx{
+      background-color:rgb(3, 56, 23);
+    color:#fff;
+    border-radius: 20%;
+    border-width:0;
+}
+
+
+
